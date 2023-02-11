@@ -1,10 +1,4 @@
-kitoblar = {
-    "Joanna Rouling":{
-        "1": "garri potter" ,
-        "2": "Shimolga sayohat" ,
-    },
-    
-    "Antuan de Sent Ekzyuperi": "Kichkina shahzoda"
-}
-
-print(kitoblar["Joanna Rouling"]["1"])
+son = 0
+while son<10:
+    son+=1
+    print('salom')
