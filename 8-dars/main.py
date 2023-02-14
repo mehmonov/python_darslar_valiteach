@@ -13,5 +13,3 @@ while belgi:
     
     if javob == "n":
         belgi = False
-
-
